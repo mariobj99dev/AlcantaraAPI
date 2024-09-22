@@ -1,6 +1,6 @@
 import express from 'express';
 import mongoose from 'mongoose';
-import { MONGO_URI, PORT } from '../src/config/config.js';
+import { MONGO_URI, PORT } from './config/config.js';
 import userRoutes from './api/v1/routes/userRoutes.js';
 import authRoutes from './api/v1/routes/authRoutes.js';
 import taskRoutes from './api/v1/routes/taskRoutes.js';
@@ -34,6 +34,9 @@ app.use('/task', authMiddleware, taskRoutes)
 app.use(errorHandler);
 
 // Inicia el servidor
-app.listen(PORT, () => {
-    logger.info(`Servidor ejecutándose en http://localhost:${PORT} en modo ${process.env.NODE_ENV}`);
-});
+
+// app.listen(PORT, () => {
+//     logger.info(`Servidor ejecutándose en http://localhost:${PORT} en modo ${process.env.NODE_ENV}`);
+// });
+
+export default app;
