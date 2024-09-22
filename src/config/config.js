@@ -2,7 +2,7 @@
 import dotenv from 'dotenv';
 
 // Determinar si estamos en desarrollo o producción (o algún otro entorno)
-const ENVIRONMENT = process.env.NODE_ENV || 'development';
+const ENVIRONMENT = process.env.NODE_ENV || 'production';
 
 // Cargar el archivo .env correspondiente según el entorno
 dotenv.config({ path: ENVIRONMENT === 'production' ? './src/config/env/prod.env' : './src/config/env/dev.env' });
