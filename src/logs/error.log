@@ -1,0 +1,1514 @@
+2024-09-18 11:16:59 [error]: Usuario no encontrado: Pablixico34
+2024-09-18 11:18:16 [error]: Usuario no encontrado: Pablixico34
+2024-09-18 11:30:06 [error]: Error al registrar el usuario: Pablixfico, El usuario ya existe.
+2024-09-18 11:48:05 [error]: Error al registrar el usuario: Pablixfico, El usuario ya existe.
+2024-09-18 11:48:05 [error]: Error en el registro del usuario: Pablixfico, Error: El usuario ya existe.
+2024-09-18 11:49:56 [error]: Error al registrar el usuario: Pablixfico, El usuario ya existe.
+2024-09-18 11:49:56 [error]: Error en el registro del usuario: Pablixfico, Error: El usuario ya existe.
+2024-09-18 11:50:15 [error]: Error al registrar el usuario: Pablixfico, El usuario ya existe.
+2024-09-18 11:50:15 [error]: Error en el registro del usuario: Pablixfico, Error: El usuario ya existe.
+2024-09-18 12:31:51 [error]: Error en el proceso de login para el usuario: john123, Credenciales incorrectas.
+2024-09-18 12:31:51 [error]: Error en el login del usuario: john123, Error: Credenciales incorrectas.
+2024-09-18 12:32:04 [error]: Error en el proceso de login para el usuario: john123, Credenciales incorrectas.
+2024-09-18 12:32:04 [error]: Error en el login del usuario: john123, Error: Credenciales incorrectas.
+2024-09-19 09:52:55 [error]: CustomError: El usuario ya existe. - StatusCode: 400
+2024-09-19 09:52:55 [error]: Error en el registro del usuario: Pablixfico, Error: El usuario ya existe.
+2024-09-19 09:55:21 [error]: CustomError: El usuario ya existe. - StatusCode: 400
+2024-09-19 09:55:21 [error]: Error: El usuario ya existe.
+    at registerUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:14:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async registerController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:11:9)
+2024-09-19 09:55:42 [error]: CustomError: El usuario ya existe. - StatusCode: 400
+2024-09-19 09:55:42 [error]: Error: El usuario ya existe.
+    at registerUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:14:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async registerController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:11:9)
+2024-09-19 10:04:38 [error]: CustomError: El usuario ya existe. - StatusCode: 400
+2024-09-19 10:04:38 [error]: Error: El usuario ya existe.
+    at registerUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:14:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async registerController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:11:9)
+2024-09-19 10:08:04 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-19 10:08:04 [error]: Error en el login del usuario: Pablixico3, Error: Credenciales incorrectas.
+2024-09-19 10:08:57 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-19 10:08:57 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:42:19)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-19 11:04:26 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-19 11:04:26 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:42:19)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-19 11:04:46 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-19 11:04:46 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:42:19)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-19 11:05:04 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-19 11:05:04 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:42:19)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-19 11:05:14 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-19 11:05:14 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:42:19)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-19 11:07:28 [error]: CustomError: El usuario ya existe. - StatusCode: 400
+2024-09-19 11:07:28 [error]: Error: El usuario ya existe.
+    at registerUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:14:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async registerController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:11:9)
+2024-09-19 11:08:54 [error]: SyntaxError: Unexpected token } in JSON at position 36
+    at JSON.parse (<anonymous>)
+    at parse (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\raw-body\index.js:238:16)
+    at done (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:517:28)
+    at endReadableNT (node:internal/streams/readable:1368:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2024-09-19 14:15:44 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-19 14:15:44 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-19 20:37:29 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-19 20:37:29 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-19 20:37:29 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-19 20:37:29 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-19 20:37:29 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-19 20:37:29 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-19 20:37:29 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-19 20:37:29 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-19 20:37:29 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-19 20:37:29 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-19 20:37:29 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-19 20:37:29 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-19 22:13:28 [error]: CustomError: Token ha caducado. - StatusCode: 401
+2024-09-19 22:13:28 [error]: Error: Token ha caducado.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:20:25)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-19 22:13:28 [error]: CustomError: Token ha caducado. - StatusCode: 401
+2024-09-19 22:13:28 [error]: Error: Token ha caducado.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:20:25)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-19 22:14:05 [error]: CustomError: Token ha caducado. - StatusCode: 401
+2024-09-19 22:14:05 [error]: Error: Token ha caducado.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:20:25)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-19 22:14:05 [error]: CustomError: Token ha caducado. - StatusCode: 401
+2024-09-19 22:14:05 [error]: Error: Token ha caducado.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:20:25)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-19 22:15:42 [error]: CustomError: Token ha caducado. - StatusCode: 401
+2024-09-19 22:15:42 [error]: Error: Token ha caducado.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:20:25)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-19 22:15:42 [error]: CustomError: Token ha caducado. - StatusCode: 401
+2024-09-19 22:15:42 [error]: Error: Token ha caducado.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:20:25)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-19 22:16:24 [error]: CustomError: Token ha caducado. - StatusCode: 401
+2024-09-19 22:16:24 [error]: Error: Token ha caducado.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:20:25)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-19 22:17:35 [error]: CustomError: Token ha caducado. - StatusCode: 401
+2024-09-19 22:17:35 [error]: Error: Token ha caducado.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:20:25)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-19 22:19:23 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-19 22:19:23 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-19 22:19:28 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-19 22:19:28 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-19 22:22:18 [error]: CustomError: Token ha caducado. - StatusCode: 401
+2024-09-19 22:22:18 [error]: Error: Token ha caducado.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:20:25)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-19 22:43:12 [error]: CustomError: Token ha caducado. - StatusCode: 401
+2024-09-19 22:43:12 [error]: Error: Token ha caducado.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:20:25)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-19 22:46:34 [error]: CustomError: Token ha caducado. - StatusCode: 401
+2024-09-19 22:46:34 [error]: Error: Token ha caducado.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:20:25)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-19 23:11:45 [error]: CustomError: Token ha caducado. - StatusCode: 401
+2024-09-19 23:11:45 [error]: Error: Token ha caducado.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:20:25)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-19 23:12:43 [error]: CustomError: Token no válido. - StatusCode: 401
+2024-09-19 23:12:43 [error]: Error: Token no válido.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:22:21)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-19 23:13:11 [error]: CustomError: Token no válido. - StatusCode: 401
+2024-09-19 23:13:11 [error]: Error: Token no válido.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:22:21)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-19 23:15:06 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-19 23:15:06 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-19 23:15:16 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-19 23:15:16 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-19 23:15:20 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-19 23:15:20 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-19 23:15:25 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-19 23:15:25 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 17:29:16 [error]: CustomError: Token ha caducado. - StatusCode: 401
+2024-09-20 17:29:16 [error]: Error: Token ha caducado.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:20:25)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-20 17:39:48 [error]: CustomError: Token no válido. - StatusCode: 401
+2024-09-20 17:39:48 [error]: Error: Token no válido.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:22:21)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-20 17:40:02 [error]: CustomError: Token no válido. - StatusCode: 401
+2024-09-20 17:40:02 [error]: Error: Token no válido.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:22:21)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-20 17:40:42 [error]: CustomError: Token no válido. - StatusCode: 401
+2024-09-20 17:40:42 [error]: Error: Token no válido.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:22:21)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-20 17:41:45 [error]: CustomError: Token no válido. - StatusCode: 401
+2024-09-20 17:41:45 [error]: Error: Token no válido.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:22:21)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-20 17:42:16 [error]: CustomError: Acceso denegado. No hay token. - StatusCode: 401
+2024-09-20 17:42:16 [error]: Error: Acceso denegado. No hay token.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:11:21)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-20 17:42:41 [error]: CustomError: Token no válido. - StatusCode: 401
+2024-09-20 17:42:41 [error]: Error: Token no válido.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:22:21)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-20 17:43:39 [error]: CustomError: Acceso denegado. No hay token. - StatusCode: 401
+2024-09-20 17:43:39 [error]: Error: Acceso denegado. No hay token.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:11:21)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-20 17:44:58 [error]: CustomError: Acceso denegado. No hay token. - StatusCode: 401
+2024-09-20 17:44:58 [error]: Error: Acceso denegado. No hay token.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:11:21)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-20 17:45:56 [error]: CustomError: Acceso denegado. No hay token. - StatusCode: 401
+2024-09-20 17:45:56 [error]: Error: Acceso denegado. No hay token.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:11:21)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-20 17:46:32 [error]: CustomError: Acceso denegado. No hay token. - StatusCode: 401
+2024-09-20 17:46:32 [error]: Error: Acceso denegado. No hay token.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:11:21)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-20 17:48:00 [error]: CustomError: Acceso denegado. No hay token. - StatusCode: 401
+2024-09-20 17:48:00 [error]: Error: Acceso denegado. No hay token.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:11:21)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-20 17:48:04 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 17:48:04 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 17:49:17 [error]: CustomError: Acceso denegado. No hay token. - StatusCode: 401
+2024-09-20 17:49:17 [error]: Error: Acceso denegado. No hay token.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:11:21)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-20 17:50:01 [error]: CustomError: Acceso denegado. No hay token. - StatusCode: 401
+2024-09-20 17:50:01 [error]: Error: Acceso denegado. No hay token.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:11:21)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-20 17:50:33 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 17:50:33 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:42:19)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 17:50:38 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 17:50:38 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:42:19)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 17:50:55 [error]: CustomError: Acceso denegado. No hay token. - StatusCode: 401
+2024-09-20 17:50:55 [error]: Error: Acceso denegado. No hay token.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:11:21)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-20 17:58:20 [error]: CustomError: Token ha caducado. - StatusCode: 401
+2024-09-20 17:58:20 [error]: Error: Token ha caducado.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:20:25)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-20 18:20:45 [error]: CustomError: Token ha caducado. - StatusCode: 401
+2024-09-20 18:20:45 [error]: Error: Token ha caducado.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:20:25)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-20 18:26:10 [error]: CustomError: Token ha caducado. - StatusCode: 401
+2024-09-20 18:26:10 [error]: Error: Token ha caducado.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:20:25)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-20 18:56:04 [error]: CustomError: Token ha caducado. - StatusCode: 401
+2024-09-20 18:56:04 [error]: Error: Token ha caducado.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:20:25)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-20 19:11:45 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 19:11:45 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:42:19)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 19:13:57 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 19:13:57 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 19:15:52 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 19:15:52 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 19:16:01 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 19:16:01 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 19:16:05 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 19:16:05 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 19:17:48 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 19:17:48 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 19:20:55 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 19:20:55 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 19:20:56 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 19:20:56 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 19:25:11 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 19:25:11 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 19:25:47 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 19:25:47 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 19:26:20 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 19:26:20 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 19:26:22 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 19:26:22 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 19:26:37 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 19:26:37 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 19:26:52 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 19:26:52 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 19:33:25 [error]: CustomError: Token ha caducado. - StatusCode: 401
+2024-09-20 19:33:25 [error]: Error: Token ha caducado.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:20:25)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-20 19:50:55 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 19:50:55 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 19:51:20 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 19:51:20 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 19:54:20 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 19:54:20 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 20:14:03 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 20:14:03 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 20:14:22 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 20:14:22 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 20:15:41 [error]: CustomError: Token ha caducado. - StatusCode: 401
+2024-09-20 20:15:41 [error]: Error: Token ha caducado.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:20:25)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-20 20:15:51 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 20:15:51 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 20:17:06 [error]: CustomError: Token ha caducado. - StatusCode: 401
+2024-09-20 20:17:06 [error]: Error: Token ha caducado.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:20:25)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-20 20:17:10 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 20:17:10 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 20:17:20 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 20:17:20 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 20:17:34 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 20:17:34 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 20:17:45 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 20:17:45 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 20:18:04 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 20:18:04 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 20:18:40 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 20:18:40 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 20:19:10 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 20:19:10 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 20:19:12 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 20:19:12 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 20:19:15 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 20:19:15 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 20:19:21 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 20:19:21 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 20:24:52 [error]: CustomError: Token ha caducado. - StatusCode: 401
+2024-09-20 20:24:52 [error]: Error: Token ha caducado.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:20:25)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-20 20:25:12 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 20:25:12 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 20:29:58 [error]: CustomError: Token ha caducado. - StatusCode: 401
+2024-09-20 20:29:58 [error]: Error: Token ha caducado.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:20:25)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-20 20:30:24 [error]: CustomError: Token ha caducado. - StatusCode: 401
+2024-09-20 20:30:24 [error]: Error: Token ha caducado.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:20:25)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-20 20:31:09 [error]: CustomError: Token ha caducado. - StatusCode: 401
+2024-09-20 20:31:09 [error]: Error: Token ha caducado.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:20:25)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-20 20:31:29 [error]: CustomError: Token ha caducado. - StatusCode: 401
+2024-09-20 20:31:29 [error]: Error: Token ha caducado.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:20:25)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-20 20:31:33 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 20:31:33 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 20:31:35 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 20:31:35 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 20:32:13 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 20:32:13 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:42:19)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 20:51:12 [error]: CustomError: Acceso denegado. No hay token. - StatusCode: 401
+2024-09-20 20:51:12 [error]: Error: Acceso denegado. No hay token.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:11:21)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-20 20:51:44 [error]: CustomError: Error al crear la tarea - StatusCode: 500
+2024-09-20 20:51:44 [error]: Error: Error al crear la tarea
+    at createTask (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/taskService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createTaskController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/taskController.js:11:25)
+2024-09-20 20:52:52 [error]: CustomError: Error al crear la tarea - StatusCode: 500
+2024-09-20 20:52:52 [error]: Error: Error al crear la tarea
+    at createTask (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/taskService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createTaskController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/taskController.js:11:25)
+2024-09-20 20:55:59 [error]: CustomError: Error al crear la tarea - StatusCode: 500
+2024-09-20 20:55:59 [error]: Error: Error al crear la tarea
+    at createTask (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/taskService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createTaskController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/taskController.js:11:25)
+2024-09-20 20:57:51 [error]: CustomError: Error al crear la tarea - StatusCode: 500
+2024-09-20 20:57:51 [error]: Error: Error al crear la tarea
+    at createTask (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/taskService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createTaskController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/taskController.js:11:25)
+2024-09-20 20:58:03 [error]: CustomError: Error al crear la tarea - StatusCode: 500
+2024-09-20 20:58:03 [error]: Error: Error al crear la tarea
+    at createTask (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/taskService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createTaskController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/taskController.js:11:25)
+2024-09-20 21:00:01 [error]: ReferenceError: createTaskSchema is not defined
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/routes/taskRoutes.js:11:23
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-20 21:05:32 [error]: CustomError: Error al crear la tarea - StatusCode: 500
+2024-09-20 21:05:32 [error]: Error: Error al crear la tarea
+    at createTask (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/taskService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createTaskController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/taskController.js:11:25)
+2024-09-20 21:10:27 [error]: CustomError: Error al crear la tarea - StatusCode: 500
+2024-09-20 21:10:27 [error]: Error: Error al crear la tarea
+    at createTask (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/taskService.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createTaskController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/taskController.js:11:25)
+2024-09-20 21:13:05 [error]: ReferenceError: logger is not defined
+    at createTask (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/taskService.js:13:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createTaskController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/taskController.js:11:25)
+2024-09-20 21:13:05 [error]: CustomError: Error al crear la tarea - StatusCode: 500
+2024-09-20 21:13:05 [error]: Error: Error al crear la tarea
+    at createTaskController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/taskController.js:20:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-09-20 21:13:26 [error]: ReferenceError: logger is not defined
+    at createTask (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/taskService.js:13:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createTaskController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/taskController.js:11:25)
+2024-09-20 21:13:26 [error]: CustomError: Error al crear la tarea - StatusCode: 500
+2024-09-20 21:13:26 [error]: Error: Error al crear la tarea
+    at createTaskController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/taskController.js:20:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-09-20 21:13:48 [error]: ValidationError: Task validation failed: branch: `Industry` is not a valid enum value for path `branch`.
+    at Document.invalidate (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\mongoose\lib\document.js:3312:32)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\mongoose\lib\document.js:3073:17
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\mongoose\lib\schemaType.js:1388:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+2024-09-20 21:13:48 [error]: CustomError: Error al crear la tarea: Task validation failed: branch: `Industry` is not a valid enum value for path `branch`. - StatusCode: 500
+2024-09-20 21:13:48 [error]: Error: Error al crear la tarea: Task validation failed: branch: `Industry` is not a valid enum value for path `branch`.
+    at createTask (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/taskService.js:17:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createTaskController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/taskController.js:11:25)
+2024-09-20 21:13:48 [error]: Error: Error al crear la tarea: Task validation failed: branch: `Industry` is not a valid enum value for path `branch`.
+    at createTask (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/taskService.js:17:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createTaskController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/taskController.js:11:25)
+2024-09-20 21:31:51 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 21:31:51 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 21:32:12 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 21:32:12 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 21:34:02 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 21:34:02 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 21:34:31 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 21:34:31 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 21:34:55 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 21:34:55 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 21:35:07 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 21:35:07 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 21:35:42 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 21:35:42 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 21:35:52 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 21:35:52 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 21:36:04 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 21:36:04 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 21:36:08 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 21:36:08 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 21:36:09 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 21:36:09 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 21:36:12 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 21:36:12 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 21:36:22 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 21:36:22 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 21:36:40 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 21:36:40 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 21:37:02 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 21:37:02 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 21:37:13 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 21:37:13 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 21:37:24 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 21:37:24 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 21:37:27 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 21:37:27 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 21:37:41 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 21:37:41 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 21:37:52 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 21:37:52 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 21:38:03 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 21:38:03 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 21:38:21 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 21:38:21 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 21:38:45 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 21:38:45 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 21:39:33 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 21:39:33 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 21:39:53 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 21:39:53 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 21:40:48 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 21:40:48 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 21:40:52 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 21:40:52 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 21:40:55 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 21:40:55 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 21:46:01 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 21:46:01 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 21:46:04 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 21:46:04 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 21:47:53 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 21:47:53 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 21:49:23 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 21:49:23 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 21:51:55 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 21:51:55 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 21:52:22 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 21:52:22 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 21:54:09 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 21:54:09 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 21:55:38 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 21:55:38 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 21:55:56 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 21:55:56 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 21:56:32 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 21:56:32 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 21:57:00 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 21:57:00 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 21:58:07 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 21:58:07 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 21:58:21 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 21:58:21 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 21:58:34 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 21:58:34 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 21:58:38 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 21:58:38 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 21:58:43 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 21:58:43 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 21:59:26 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 21:59:26 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 21:59:31 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 21:59:31 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 21:59:38 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 21:59:38 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 22:02:10 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 22:02:10 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 22:02:15 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 22:02:15 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 22:02:19 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 22:02:19 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 22:02:22 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 22:02:22 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 22:03:50 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 22:03:50 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 22:03:59 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 22:03:59 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 22:04:04 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 22:04:04 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 22:12:59 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 22:12:59 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 22:13:06 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 22:13:06 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 22:13:54 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 22:13:54 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 22:14:09 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 22:14:09 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 22:14:49 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 22:14:49 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 22:14:58 [error]: CustomError: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde. - StatusCode: 429
+2024-09-20 22:14:58 [error]: Error: Demasiados intentos de inicio de sesión. Por favor, intenta de nuevo más tarde.
+    at Object.handler (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/rateLimiterMiddleware.js:9:14)
+    at file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:721:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/node_modules/express-rate-limit/dist/index.mjs:622:5
+2024-09-20 22:15:37 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 22:15:37 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 22:16:49 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 22:16:49 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 22:16:55 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 22:16:55 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 22:17:35 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 22:17:35 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 22:17:57 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 22:17:57 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 22:17:58 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 22:17:58 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 22:18:00 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 22:18:00 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 22:19:27 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 22:19:27 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 22:19:29 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 22:19:29 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 22:19:33 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 22:19:33 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 22:20:00 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 22:20:00 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 22:21:13 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 22:21:13 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 22:21:14 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 22:21:14 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 22:21:19 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 22:21:19 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 22:21:36 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 22:21:36 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 22:21:37 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 22:21:37 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 22:21:46 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 22:21:46 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 22:22:03 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 22:22:03 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 22:22:05 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 22:22:05 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 22:22:25 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 22:22:25 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 22:22:26 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 22:22:26 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 22:22:26 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 22:22:26 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 22:22:37 [error]: CustomError: Credenciales incorrectas. - StatusCode: 401
+2024-09-20 22:22:37 [error]: Error: Credenciales incorrectas.
+    at loginUser (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/authService.js:36:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/authController.js:30:23)
+2024-09-20 22:40:02 [error]: CustomError: Acceso denegado. No hay token. - StatusCode: 401
+2024-09-20 22:40:02 [error]: Error: Acceso denegado. No hay token.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:11:21)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-20 23:06:04 [error]: CustomError: Acceso denegado. No hay token. - StatusCode: 401
+2024-09-20 23:06:04 [error]: Error: Acceso denegado. No hay token.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:11:21)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-20 23:06:24 [error]: CustomError: Token ha caducado. - StatusCode: 401
+2024-09-20 23:06:24 [error]: Error: Token ha caducado.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:20:25)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-20 23:07:17 [error]: CustomError: Error al obtener las tareas - StatusCode: 500
+2024-09-20 23:07:17 [error]: Error: Error al obtener las tareas
+    at getAllTasks (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/taskService.js:25:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getAllTasksController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/taskController.js:27:23)
+2024-09-20 23:08:58 [error]: CustomError: Error al obtener las tareas - StatusCode: 500
+2024-09-20 23:08:58 [error]: Error inesperado al obtener las tareas: Error al obtener las tareas
+2024-09-20 23:08:58 [error]: Error: Error al obtener las tareas
+    at getAllTasks (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/taskService.js:25:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getAllTasksController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/taskController.js:27:23)
+2024-09-20 23:10:04 [error]: MissingSchemaError: Schema hasn't been registered for model "User".
+Use mongoose.model(name, schema)
+    at Connection.model (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\mongoose\lib\connection.js:1221:13)
+    at _getModelFromConn (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\mongoose\lib\helpers\populate\getModelsMapForPopulate.js:569:15)
+    at addModelNamesToMap (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\mongoose\lib\helpers\populate\getModelsMapForPopulate.js:496:17)
+    at getModelsMapForPopulate (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\mongoose\lib\helpers\populate\getModelsMapForPopulate.js:200:7)
+    at populate (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\mongoose\lib\model.js:4208:21)
+    at _populate (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\mongoose\lib\model.js:4168:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\mongoose\lib\model.js:4140:5
+    at new Promise (<anonymous>)
+    at Function.populate (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\mongoose\lib\model.js:4139:10)
+    at model.Query._find (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\mongoose\lib\query.js:2347:20)
+2024-09-20 23:10:04 [error]: CustomError: Error al obtener las tareas - StatusCode: 500
+2024-09-20 23:10:04 [error]: Error inesperado al obtener las tareas: Error al obtener las tareas
+2024-09-20 23:10:04 [error]: Error: Error al obtener las tareas
+    at getAllTasks (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/taskService.js:26:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getAllTasksController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/taskController.js:27:23)
+2024-09-20 23:11:36 [error]: MissingSchemaError: Schema hasn't been registered for model "User".
+Use mongoose.model(name, schema)
+    at Connection.model (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\mongoose\lib\connection.js:1221:13)
+    at _getModelFromConn (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\mongoose\lib\helpers\populate\getModelsMapForPopulate.js:569:15)
+    at addModelNamesToMap (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\mongoose\lib\helpers\populate\getModelsMapForPopulate.js:496:17)
+    at getModelsMapForPopulate (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\mongoose\lib\helpers\populate\getModelsMapForPopulate.js:200:7)
+    at populate (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\mongoose\lib\model.js:4208:21)
+    at _populate (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\mongoose\lib\model.js:4168:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\mongoose\lib\model.js:4140:5
+    at new Promise (<anonymous>)
+    at Function.populate (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\mongoose\lib\model.js:4139:10)
+    at model.Query._find (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\mongoose\lib\query.js:2347:20)
+2024-09-20 23:11:36 [error]: CustomError: Error al obtener las tareas - StatusCode: 500
+2024-09-20 23:11:36 [error]: Error inesperado al obtener las tareas: Error al obtener las tareas
+2024-09-20 23:11:36 [error]: Error: Error al obtener las tareas
+    at getAllTasks (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/services/taskService.js:26:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getAllTasksController (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/controllers/taskController.js:27:23)
+2024-09-21 00:12:06 [error]: CustomError: Token ha caducado. - StatusCode: 401
+2024-09-21 00:12:06 [error]: Error: Token ha caducado.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:20:25)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-22 12:04:52 [error]: CustomError: Token ha caducado. - StatusCode: 401
+2024-09-22 12:04:52 [error]: Error: Token ha caducado.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:20:25)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:47:12)
+2024-09-22 12:07:44 [error]: CustomError: Token ha caducado. - StatusCode: 401
+2024-09-22 12:07:44 [error]: Error: Token ha caducado.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:20:25)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:328:13)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at jsonParser (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\body-parser\lib\types\json.js:113:7)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:328:13)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:286:9
+2024-09-22 12:12:26 [error]: CustomError: Token ha caducado. - StatusCode: 401
+2024-09-22 12:12:26 [error]: Error: Token ha caducado.
+    at authMiddleware (file:///C:/Dev/Proyectos/NodeJS/API-REST-Fastify/src/api/v1/middlewares/authMiddleware.js:20:25)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:328:13)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:280:10)
+    at jsonParser (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\body-parser\lib\types\json.js:113:7)
+    at Layer.handle [as handle_request] (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:328:13)
+    at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:286:9
