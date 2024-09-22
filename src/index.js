@@ -1,5 +1,5 @@
 import express from 'express';
-import mongoose from 'mongoose';
+import connectDB from './config/db.js'; // Importa la función de conexión
 import { MONGO_URI, PORT } from './config/config.js';
 import userRoutes from './api/v1/routes/userRoutes.js';
 import authRoutes from './api/v1/routes/authRoutes.js';
@@ -21,12 +21,7 @@ app.use(corsMiddleware);
 app.use(express.json());
 app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerDocs));
 
-mongoose.connect(MONGO_URI)
-    .then(() => logger.info('Conectado a MongoDB'))
-    .catch(err => {
-        logger.error('Error conectando a MongoDB:', err);
-        throw new CustomError('No se pudo conectar a la base de datos', 500);
-    });
+connectDB();
 
 app.use('/users', userRoutes);
 app.use('/auth', authRoutes);

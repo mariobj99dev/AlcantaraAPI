@@ -2502,3 +2502,23 @@ Use mongoose.model(name, schema)
     at C:\Dev\Proyectos\NodeJS\API-REST-Fastify\node_modules\express\lib\router\index.js:286:9
 2024-09-22 12:26:25 [info]: Servidor ejecutándose en http://localhost:3000 en modo development
 2024-09-22 12:26:25 [info]: Conectado a MongoDB
+2024-09-22 15:37:45 [info]: Servidor ejecutándose en http://localhost:3000 en modo development
+2024-09-22 15:37:45 [info]: Conectado a MongoDB
+2024-09-22 15:39:28 [info]: Servidor ejecutándose en http://localhost:3000 en modo development
+2024-09-22 15:39:28 [info]: Conectado a MongoDB
+2024-09-22 15:41:07 [info]: Servidor ejecutándose en http://localhost:3000 en modo development
+2024-09-22 15:41:07 [info]: Conectado a MongoDB
+2024-09-22 15:41:41 [info]: Servidor ejecutándose en http://localhost:3000 en modo development
+2024-09-22 15:41:41 [info]: Conectado a MongoDB
+2024-09-22 15:42:43 [info]: Servidor ejecutándose en http://localhost:3000 en modo development
+2024-09-22 15:42:43 [info]: Conectado a MongoDB
+2024-09-22 15:43:00 [info]: Servidor ejecutándose en http://localhost:3000 en modo development
+2024-09-22 15:43:00 [info]: Conectado a MongoDB
+2024-09-22 15:47:10 [info]: Servidor ejecutándose en http://localhost:3000 en modo development
+2024-09-22 15:47:11 [info]: Conectado a MongoDB
+2024-09-22 15:47:26 [info]: Intento de obtener todos los usuarios
+2024-09-22 15:47:26 [info]: Usuarios obtenidos correctamente
+2024-09-22 15:47:38 [info]: Servidor ejecutándose en http://localhost:3000 en modo development
+2024-09-22 15:47:38 [info]: Conectado a MongoDB
+2024-09-22 15:47:40 [info]: Intento de obtener todos los usuarios
+2024-09-22 15:47:40 [info]: Usuarios obtenidos correctamente
