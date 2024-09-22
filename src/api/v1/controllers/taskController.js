@@ -4,6 +4,7 @@ import { createTask, getAllTasks, getTaskById, updateTask, deleteTask } from '..
 import logger from '../../../utils/logger.js';
 import CustomError from '../../../errors/CustomError.js';
 
+
 export const createTaskController = async (req, res, next) => {
     try {
         const taskData = req.body;
@@ -11,10 +12,8 @@ export const createTaskController = async (req, res, next) => {
         const newTask = await createTask(taskData);
         res.status(201).json(newTask);
     } catch (error) {
-        // Loguear el error detalladamente
-        logger.error(`Error inesperado al crear la tarea: ${error.message}`, error);
-
         if (error instanceof CustomError) {
+            logger.error(error.message);
             return next(error);
         }
         next(new CustomError('Error al crear la tarea', 500));

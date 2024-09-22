@@ -23,15 +23,15 @@ app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerDocs));
 
 connectDB();
 
-app.use('/users', userRoutes);
+app.use('/users', authMiddleware, userRoutes);
 app.use('/auth', authRoutes);
-app.use('/task', authMiddleware, taskRoutes)
+app.use('/task', taskRoutes)
 app.use(errorHandler);
 
 // Inicia el servidor
 
-// app.listen(PORT, () => {
-//     logger.info(`Servidor ejecutándose en http://localhost:${PORT} en modo ${process.env.NODE_ENV}`);
-// });
+app.listen(PORT, () => {
+    logger.info(`Servidor ejecutándose en http://localhost:${PORT} en modo ${process.env.NODE_ENV}`);
+});
 
-export default app;
+// export default app;

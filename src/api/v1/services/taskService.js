@@ -3,24 +3,39 @@
 import Task from '../models/taskModel.js';
 import CustomError from '../../../errors/CustomError.js';
 import logger from '../../../utils/logger.js';
+import User from '../models/userModel.js';
 
 export const createTask = async (taskData) => {
     try {
+        const workerIds = taskData.workers || [];
+        const assignedById = taskData.assigned_by;
+
+        const allUserIds = [...workerIds, assignedById];
+
+        // Validar que todos los usuarios existan, deteniendo en el primer error
+        for (const userId of allUserIds) {
+            const userExists = await User.exists({ _id: userId });
+            if (!userExists) {
+                throw new CustomError(`No se ha podido crear la tarea porque el usuario con ID ${userId} no existe.`, 400);
+            }
+        }
+
+        // Crear la tarea si todos los usuarios existen
         const newTask = new Task(taskData);
         await newTask.save();
         return newTask;
     } catch (error) {
-        // Loguear el mensaje completo y el stack trace del error
-        logger.error(`Error al crear la tarea: ${error.message}`, error);
-
-        // También incluir el error original en la instancia de CustomError para que sea más fácil rastrear el problema
-        throw new CustomError(`Error al crear la tarea: ${error.message}`, 500);
+        logger.error(`Error al crear la tarea: ${error.message}`);
+        throw error; // Re-lanzar el error para que sea manejado por el controlador
     }
 };
 
 export const getAllTasks = async () => {
     try {
-        return await Task.find({}).populate('workers assigned_by');
+        return await Task.find({}).populate({
+            path: 'workers assigned_by',
+            select: '-password' // Excluir la contraseña
+        });
     } catch (error) {
         logger.error(`Error al crear la tarea: ${error.message}`, error);
         throw new CustomError('Error al obtener las tareas', 500);

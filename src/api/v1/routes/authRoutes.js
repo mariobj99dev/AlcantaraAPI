@@ -17,7 +17,7 @@ router.post('/register', authMiddleware, (req, res, next) => {
     next();
 }, hashPassword, registerController);
 
-router.post('/login', authRateLimiter, loginController);
+// router.post('/login', authRateLimiter, loginController);
 router.post('/login', /*authRateLimiter,*/ loginController);
 
 router.post('/me', authMiddleware, getAuthenticatedUserController);

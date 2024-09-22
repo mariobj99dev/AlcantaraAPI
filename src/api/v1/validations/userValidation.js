@@ -6,7 +6,7 @@ export const createUserSchema = Joi.object({
     username: Joi.string().min(4).trim().required(),
     password: Joi.string().min(8).required(),
     rank: Joi.string().valid('Grand Master', 'Master', 'Superior Official', 'Official', 'Acolyte').required(),
-    branch: Joi.string().valid('Industrial', 'Civil', 'Primary').required()
+    branch: Joi.string().valid('Industry', 'Civil', 'Primary').required()
 });
 
 // Esquema de validación para actualizar un usuario con saneamiento
@@ -15,5 +15,5 @@ export const updateUserSchema = Joi.object({
     username: Joi.string().min(4).trim(),
     password: Joi.string().min(8),
     rank: Joi.string().valid('Grand Master', 'Master', 'Superior Official', 'Official', 'Acolyte'),
-    branch: Joi.string().valid('Industrial', 'Civil', 'Primary')
+    branch: Joi.string().valid('Industry', 'Civil', 'Primary')
 });

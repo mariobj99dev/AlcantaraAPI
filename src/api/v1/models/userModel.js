@@ -14,6 +14,6 @@ const userSchema = new Schema({
     last_login: { type: Date }
 })
 
-const User = model('users', userSchema);
+const User = model('User', userSchema);
 
 export default User;
