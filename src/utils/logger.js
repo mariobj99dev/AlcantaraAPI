@@ -1,7 +1,5 @@
-// src/utils/logger.js
 import { createLogger, format, transports } from 'winston';
 import path from 'path';
-import { IS_PRODUCTION } from '../config/config.js';
 
 const { combine, timestamp, printf, colorize, errors } = format;
 
@@ -16,21 +14,22 @@ const logger = createLogger({
         errors({ stack: true }),
         logFormat
     ),
-    transports: [
-        new transports.File({ filename: path.join('src', 'logs', 'error.log'), level: 'error' }),
-        new transports.File({ filename: path.join('src', 'logs', 'trace.log'), level: 'info' }),
-        new transports.File({ filename: path.join('src', 'logs', 'combined.log') })
-    ]
+    transports: []
 });
 
-// Mostrar en consola solo si no estamos en producción
-if (!IS_PRODUCTION) {
-    logger.add(new transports.Console({
-        format: combine(
-            colorize(),
-            logFormat
-        )
-    }));
+// Si NO estamos en Vercel, añadimos los transportes de archivo
+if (process.env.VERCEL !== '1') {
+    logger.add(new transports.File({ filename: path.join('src', 'logs', 'error.log'), level: 'error' }));
+    logger.add(new transports.File({ filename: path.join('src', 'logs', 'trace.log'), level: 'info' }));
+    logger.add(new transports.File({ filename: path.join('src', 'logs', 'combined.log') }));
 }
+
+// Mostrar en consola siempre
+logger.add(new transports.Console({
+    format: combine(
+        colorize(),
+        logFormat
+    )
+}));
 
 export default logger;
